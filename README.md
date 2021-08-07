@@ -2,10 +2,13 @@
 about solidworks
 
 git使用记录
+
 1、创建远程库仓库
 如https://github.com/trymine/Solidworks-project.git
+
 2、本地仓库初始化：
 寻找合适本地路径，进行初始化
+
 ```C
 git init
 ```
